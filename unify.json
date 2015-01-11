@@ -3,6 +3,9 @@
   "client": {
     "tests": [
       "app/fayde.json"
+    ],
+    "exclude": [
+      ["tone", "pixelpalette"]
     ]
   },
   "type": "app",
